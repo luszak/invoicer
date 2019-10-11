@@ -1,0 +1,18 @@
+invoices:
+  - seller:
+      name: "Seller Name"
+      address: "Mleczna 12"
+      nip: "1234567890"
+      account: "00 1111 2222 3333 4444 5555 6666 7777"
+      bank: "dasdasd"
+      phone: "1238u1203"
+      team: "dupa"
+    buyer:
+      name: "Buyer Name"
+      address: "Krowia 21"
+      nip: "0987654321"
+    items:
+      - name: "Usługa zgodna z umową z dn. 01.02.2019"
+        quantity: 1
+        netto: 150000.0
+        vat: "zw."
